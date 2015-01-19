@@ -1,3 +1,9 @@
+/**
+ * NOTE!!!!
+ * This is part of Jhonti Todd-Simpson's EPQ project on cryptography!
+ * This is not plagiarised!
+ */
+
 public class Factoriser {
 
     Factoriser(String to_parse){
